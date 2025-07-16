@@ -1,7 +1,5 @@
 # 📋 Tasify - Smart ToDo Task Manager
 
-![Tasify Preview](./preview.png)
-
 **Tasify** is a feature-rich React Native To-Do List App that helps you stay productive and organized. With a clean UI and smart task handling, you can add, edit, schedule, delete, and restore tasks — all with local notifications to keep you on track.
 
 ---
@@ -30,6 +28,7 @@
 | Notifications| Notifee |
 | UI Components| React Native Vector Icons, CheckBox, DateTime Picker |
 
+![Tasify Preview](./preview.png)
 ---
 
 ## 🗂 Directory Structure
