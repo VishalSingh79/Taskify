@@ -1,7 +1,41 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 📋 Tasify - Smart ToDo Task Manager
+
+![Tasify Preview](./preview.png)
+
+**Tasify** is a feature-rich React Native To-Do List App that helps you stay productive and organized. With a clean UI and smart task handling, you can add, edit, schedule, delete, and restore tasks — all with local notifications to keep you on track.
+
+---
+
+## 🚀 Features
+
+- ✅ **Create & Complete Tasks**  
+- 📝 **Edit Tasks Anytime**  
+- ⏰ **Schedule Task Reminders (with Notifications)**  
+- 🗑️ **Soft Delete Tasks to Recycle Bin**  
+- ♻️ **Restore or Permanently Delete from Bin**  
+- ⌛ **Auto Delete Recycle Bin Items after 7 Days**
+- 🔔 **Push Notifications using Notifee**
+- 💾 **Data Persistence with AsyncStorage**
+- 📱 **Built with React Native (Android & iOS)**
+
+---
+
+## 🧑‍💻 Tech Stack
+
+| Layer        | Technology |
+|--------------|------------|
+| Framework    | React Native |
+| Navigation   | React Navigation |
+| Local Storage| AsyncStorage |
+| Notifications| Notifee |
+| UI Components| React Native Vector Icons, CheckBox, DateTime Picker |
+
+---
+
+## 🗂 Directory Structure
+
 
 # Getting Started
-
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
 ## Step 1: Start Metro
