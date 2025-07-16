@@ -33,7 +33,7 @@ const App = () => {
         screenOptions={{
           tabBarActiveTintColor: '#003366',
           tabBarLabelStyle: { fontSize: 14 },
-          tabBarStyle: { height: 60 },
+          tabBarStyle: { height: 100 },
           headerStyle: { backgroundColor: '#003366' },
           headerTintColor: '#fff',
           headerTitleStyle: {
